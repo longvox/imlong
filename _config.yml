@@ -1,7 +1,7 @@
 # Site settings
 title: "I'm Long"
 description: "Blog về kinh nghiệm bản thân về công nghệ thông tin và nhiều lĩnh vực mà tôi quan tâm."
-baseurl: "" 
+baseurl: "imlong.github.io" 
 url: ""
 author: "Long Vox"
 intro: "Xin chào bạn ghé thăm blog nhỏ của mình."
