@@ -1,0 +1,23 @@
+# Site settings
+title: "I'm Long"
+description: "Blog về kinh nghiệm bản thân về công nghệ thông tin và nhiều lĩnh vực mà tôi quan tâm."
+baseurl: "" 
+url: ""
+author: "Long Vox"
+intro: "Xin chào bạn ghé thăm blog nhỏ của mình."
+
+# Build settings
+kramdown:
+  input: GFM
+permalink: pretty
+
+# Third-party services
+# just leave empty to disable it
+google_analytics:
+disqus: true
+disqus_shortname: longvox
+
+plugins:
+  - jekyll-sitemap
+  - jemoji
+  - jekyll-seo-tag
