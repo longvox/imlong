@@ -4,7 +4,7 @@ title: 10 Thư viện PHP mà bất kỳ ai cũng không thể bỏ qua
 tags: [PHP,Tip]
 comment: true
 ---
-![](https://raw.githubusercontent.com/longvox/longvox.github.io/master/_posts/2018-9-27-10-thu-vien-php-khong-the-bo-qua/1.png)
+![](https://raw.githubusercontent.com/longvox/longvox.github.io/master/_posts/2018-9-27-10-thu-vien-php-khong-the-bo-qua/1.png?style=centerme)
 ### _**Phát hành lần đầu năm 1995, ngôn ngữ PHP hiện tại đã vượt qua ngưỡng tuổi uống rượu hợp pháp vài năm, nhưng điều này không ngăn được việc nó vẫn là một trong những ngôn ngữ lập trình phổ biến nhất trên mạng và là sự lựa chọn đầu tiên của nhiều developer back-end.**_
 
 Việc sử dụng các thư viện có sẵn của người khác chia sẻ để tiết kiệm thời gian và hạn chế lỗi phát sinh là rất hữu ích với các developer PHP. Có rất nhiều thư viện PHP như vậy được phát hành mỗi ngày, và dưới đây chúng tôi lựa ra 10 thư viện PHP mã nguồn mở hữu ích và thú vị nhất mà bạn phải xem qua.

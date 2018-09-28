@@ -46,3 +46,8 @@ $on-:              800px;
         "layout",
         "syntax-highlighting"
 ;
+
+img[src$="centerme"] {
+  display:block;
+  margin: 0 auto;
+}
