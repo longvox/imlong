@@ -97,5 +97,5 @@ PHPGeo là một thư viện đơn giản cho phép bạn tính toán khoảng c
 
 ![](https://raw.githubusercontent.com/longvox/longvox.github.io/master/_posts/2018-9-27-10-thu-vien-php-khong-the-bo-qua/11.jpg)
 
-*Theo [Techtalk](https://techtalk.vn/10-thu-vien-php-ma-bat-ky-ai-cung-khong-the-bo-qua.html?style=rightme)*{: .right}
+*Theo [Techtalk](https://techtalk.vn/10-thu-vien-php-ma-bat-ky-ai-cung-khong-the-bo-qua.html?style=rightme)*{: .right-text}
 
