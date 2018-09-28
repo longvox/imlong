@@ -95,5 +95,5 @@ Omnipay là một thư viện xử lý các thanh toán cho PHP. Nó có một A
 PHPGeo là một thư viện đơn giản cho phép bạn tính toán khoảng cách giữa các tọa độ địa lý với độ chính xác cao. Thư viện này phục vụ tốt cho những ứng dụng làm việc dựa trên tọa độ địa lý. Để có được tọa độ, bạn có thể sử dụng API vị trí của HTML5, API của Yahoo.
 ![](http://bkacad.com/upload_images/anh_bai_viet_10.jpg)
 
-<p align="right">*Theo [Techtalk](https://techtalk.vn/10-thu-vien-php-ma-bat-ky-ai-cung-khong-the-bo-qua.html)*</p>
+*Theo [Techtalk](https://techtalk.vn/10-thu-vien-php-ma-bat-ky-ai-cung-khong-the-bo-qua.html)*
 
