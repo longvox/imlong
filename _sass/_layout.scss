@@ -68,9 +68,10 @@
  * Page content
  */
 .page-content {
+    display: block;
     position: relative;
     padding: $spacing-unit ($spacing-unit * 0.75);
-    margin: 1rem;
+    margin: 2rem auto;
     box-sizing: border-box;
     max-width: $max-width;
 }
@@ -189,4 +190,9 @@
       color: $grey-color-dark;
     }
   }
+}
+
+img[src$="centerme"] {
+  display:block;
+  margin: 0 auto;
 }
