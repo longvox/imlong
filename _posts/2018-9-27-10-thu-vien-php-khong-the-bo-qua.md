@@ -4,6 +4,7 @@ title: 10 Thư viện PHP mà bất kỳ ai cũng không thể bỏ qua
 tags: [PHP,Tip]
 comment: true
 ---
+![](https://raw.githubusercontent.com/longvox/longvox.github.io/master/_posts/2018-9-27-10-thu-vien-php-khong-the-bo-qua/1.png)
 ### _**Phát hành lần đầu năm 1995, ngôn ngữ PHP hiện tại đã vượt qua ngưỡng tuổi uống rượu hợp pháp vài năm, nhưng điều này không ngăn được việc nó vẫn là một trong những ngôn ngữ lập trình phổ biến nhất trên mạng và là sự lựa chọn đầu tiên của nhiều developer back-end.**_
 
 Việc sử dụng các thư viện có sẵn của người khác chia sẻ để tiết kiệm thời gian và hạn chế lỗi phát sinh là rất hữu ích với các developer PHP. Có rất nhiều thư viện PHP như vậy được phát hành mỗi ngày, và dưới đây chúng tôi lựa ra 10 thư viện PHP mã nguồn mở hữu ích và thú vị nhất mà bạn phải xem qua.
@@ -14,7 +15,7 @@ Việc sử dụng các thư viện có sẵn của người khác chia sẻ đ�
 
 PChart là một thư viện PHP ấn tượng giúp khởi tạo những biểu đồ trực quan từ những dữ liệu dạng văn bản. Các dữ liệu có thể được thể hiện dưới dạng cột, biểu đồ, và nhiều dạng đồ thị khác bằng cách sử dụng các truy vấn SQL.
 
-![](http://bkacad.com/upload_images/anh_bai_viet_1.jpg)
+![](https://raw.githubusercontent.com/longvox/longvox.github.io/master/_posts/2018-9-27-10-thu-vien-php-khong-the-bo-qua/2.jpg)
 
 ### **2. PHP-ML**
 
@@ -24,7 +25,7 @@ Một cách tiếp cận Machine Learning (ML) mới mẻ trong PHP, PHP-ML là 
 
 PHP-ML đòi hỏi phiên bản PHP 7 trở lên.
 
-![](http://bkacad.com/upload_images/anh_bai_viet_2.jpg)
+![](https://raw.githubusercontent.com/longvox/longvox.github.io/master/_posts/2018-9-27-10-thu-vien-php-khong-the-bo-qua/3.jpg)
 
 ### **3. Opauth**
 
@@ -32,7 +33,7 @@ PHP-ML đòi hỏi phiên bản PHP 7 trở lên.
 
 Thư viện cho phép người sử dụng xác thực bản thân thông qua những tài khoản cá nhận của họ trên các trang mạng xã hội hoặc các dịch vụ khác. Tất nhiên luôn bao gồm tất cả những tên tuổi lớn hiện nay như: Google, Facebook, Twitter, Github, Instagram, LinkedIn.
 
-![](http://bkacad.com/upload_images/anh_bai_viet_3.jpg)
+![](https://raw.githubusercontent.com/longvox/longvox.github.io/master/_posts/2018-9-27-10-thu-vien-php-khong-the-bo-qua/4.jpg)
 
 Opauth được hỗ trợ bởi nhiều PHP framework, nó có thể dễ dàng tích hợp trong hầu hết các ứng dụng PHP hiện tại, có thể kể tới: vanilla (plain) PHP applications, CakePHP, CodeIgniter, FuelPHP, Laravel, PrestaShop, và nhiều hơn nữa.
 
@@ -42,7 +43,7 @@ Opauth được hỗ trợ bởi nhiều PHP framework, nó có thể dễ dàng
 
 Không có bộ sưu tập thư viện PHP nào hoàn thiện nếu thiếu đi PHPMailer – thư viện tạo email đầy đủ tính năng cho PHP. Dự án này được hỗ trợ bởi một cộng đồng rất lớn và đang được sử dụng trong nhiều hệ thống phổ biến như WordPress và Drupal, khiến nó trở thành sự lựa chọn an toàn nhất cho việc gửi email trong PHP. Nó hỗ trợ SMTP, có thể làm email HTML, và nhiều hơn nữa.
 
-![](http://bkacad.com/upload_images/anh_bai_viet_4.jpg)
+![](https://raw.githubusercontent.com/longvox/longvox.github.io/master/_posts/2018-9-27-10-thu-vien-php-khong-the-bo-qua/5.jpg)
 
 ### **5. ImageWorkshop**
 
@@ -50,7 +51,7 @@ Không có bộ sưu tập thư viện PHP nào hoàn thiện nếu thiếu đi 
 
 ImageWorkshop là một thư viện mã nguồn mở cho phép bạn thao tác trên các lớp hình ảnh (layers). Với nó, bạn có thể tùy ý thay đổi kích thước, cắt xén, tạo hình thu nhỏ (thumbnails), thêm bản quyền hình (watermark) và nhiều hơn nữa. Đây là một ví dụ:
 
-![](http://bkacad.com/upload_images/anh_bai_viet_5.jpg)
+![](https://raw.githubusercontent.com/longvox/longvox.github.io/master/_posts/2018-9-27-10-thu-vien-php-khong-the-bo-qua/6.jpg)
 
 ImageWorkshop được phát triển để thực hiện các thao tác phổ biến trên hình ảnh một cách dễ dàng nhất trong PHP. Nếu bạn cần một công cụ mạnh hơn, có thể tham khảo thư viện Imagine.
 
@@ -60,7 +61,7 @@ ImageWorkshop được phát triển để thực hiện các thao tác phổ bi
 
 Carbon là một hàm API mở rộng đơn giản dành riêng để làm việc với ngày giờ bằng cách tăng cường các lớp dữ liệu (class) thông qua một số phương pháp hữu ích. Ví dụ:
 
-![](http://bkacad.com/upload_images/anh_bai_viet_6.jpg)
+![](https://raw.githubusercontent.com/longvox/longvox.github.io/master/_posts/2018-9-27-10-thu-vien-php-khong-the-bo-qua/7.jpg)
 
 ### **7. Ubench**
 
@@ -68,7 +69,7 @@ Carbon là một hàm API mở rộng đơn giản dành riêng để làm việ
 
 Ubench là một thư viện nhỏ dùng để đánh giá chấm điểm đoạn mã PHP của bạn. Nó theo dõi thời gian thực thi mã code và tình trạng sử dụng bộ nhớ. Sử dụng Ubench để chạy kiểm tra trong quá trình phát triển thực sự là một ý tương hay. Đây là một ví dụ:
 
-![](http://bkacad.com/upload_images/anh_bai_viet_7.jpg)
+![](https://raw.githubusercontent.com/longvox/longvox.github.io/master/_posts/2018-9-27-10-thu-vien-php-khong-the-bo-qua/8.jpg)
 
 ### **8. Faker**
 
@@ -76,7 +77,7 @@ Ubench là một thư viện nhỏ dùng để đánh giá chấm điểm đoạ
 
 Faker là một thư viện PHP tạo ra các dữ liệu giả cho bạn. Nó khá tiện dụng và hữu ích khi bạn cần một cơ sở dữ liệu thử nghiệm hoặc tạo ra các dữ liệu mẫu cho ứng dụng web của bạn. Nó cũng rất dễ dàng để sử dụng:
 
-![](http://bkacad.com/upload_images/anh_bai_viet_8.jpg)
+![](https://raw.githubusercontent.com/longvox/longvox.github.io/master/_posts/2018-9-27-10-thu-vien-php-khong-the-bo-qua/9.jpg)
 
 Miễn là bạn tiếp tục truy cập vào các thuộc tính của đối tượng, nó sẽ tiếp tục quay trở lại các dữ liệu được tạo ngẫu nhiên.
 
@@ -86,14 +87,15 @@ Miễn là bạn tiếp tục truy cập vào các thuộc tính của đối t�
 
 Omnipay là một thư viện xử lý các thanh toán cho PHP. Nó có một API rõ ràng và nhất quán và nó hỗ trợ hàng chục cổng thanh toán. Với thư viện này, bạn chỉ cần tìm hiểu một API và làm việc với nhiều bộ xử lý thanh toán khác nhau. Chính việc sử dụng một API nhất quán giúp cho thư viện có thể dễ dàng hỗ trợ nhiều bộ xử lý thanh toán cùng lúc hoặc chuyển đổi khi có nhu cầu.
 
-![](http://bkacad.com/upload_images/anh_bai_viet_9.jpg)
+![](https://raw.githubusercontent.com/longvox/longvox.github.io/master/_posts/2018-9-27-10-thu-vien-php-khong-the-bo-qua/10.jpg)
 
 ### **10. PHPGeo**
 
 [https://github.com/mjaschen/phpgeo](https://github.com/mjaschen/phpgeo)
 
 PHPGeo là một thư viện đơn giản cho phép bạn tính toán khoảng cách giữa các tọa độ địa lý với độ chính xác cao. Thư viện này phục vụ tốt cho những ứng dụng làm việc dựa trên tọa độ địa lý. Để có được tọa độ, bạn có thể sử dụng API vị trí của HTML5, API của Yahoo.
-![](http://bkacad.com/upload_images/anh_bai_viet_10.jpg)
+
+![](https://raw.githubusercontent.com/longvox/longvox.github.io/master/_posts/2018-9-27-10-thu-vien-php-khong-the-bo-qua/11.jpg)
 
 *Theo [Techtalk](https://techtalk.vn/10-thu-vien-php-ma-bat-ky-ai-cung-khong-the-bo-qua.html)*
 
