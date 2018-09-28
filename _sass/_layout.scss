@@ -198,14 +198,17 @@ img[src$="centerme"] {
 }
 
 .center-text{
+  display:block;
   text-align: center;
 }
 
 .left-text{
+  display:block;
   text-align: left;
 }
 
 .right-text{
+  display:block;
   text-align: right;
 }
 
