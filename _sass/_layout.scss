@@ -197,7 +197,7 @@ img[src$="centerme"] {
   margin: 0 auto;
 }
 
- a < em[src$="rightme"] {
+ a em:parent[src$="rightme"] {
   display:block;
   margin: 0 0 0 auto;
 }
