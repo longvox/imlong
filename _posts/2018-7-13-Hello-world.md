@@ -3,10 +3,9 @@ layout: post
 title: Hello, world!
 tags: [First Blog]
 comment: false
-categories: [abc]
 ---
 
 ## Hello, world!
-Dịch tròn nghĩa là **"Xin chào thế giới"**. Vẫn là câu đầu xuất ra màn hình chào sân bước vào nơi rắc rối của mỗi dev. Với mình đây là bài viết chào sân khi làm blog mới và ở blog này mình sẽ ghi lại tất cả những gì mình đã học được.
+Trong bài viết này mình chỉ thông báo rằng đăy là bài viết đầu tiên của mình. Bạn hãy đọc những gì có trên trang của mình là những ghi chép trong những lúc rãnh rỗi nhưng không "rãnh rỗi" của mình. Và đây là bài viết đầu tiên nên chỉ ngắn gọn như vậy thôi.
 
-Cám ơn đã đến blog của mình. :purple_heart:
+Cám ơn bạn đã đến cuốn sổ tay của mình. :purple_heart:
