@@ -4,7 +4,7 @@ title: Hello, world!
 tags: [First Blog]
 comment: false
 date:  2018-7-13 09:49:00
-permalink: Hello-ưorld
+permalink: Hello-world
 ---
 
 ## Hello, world!
