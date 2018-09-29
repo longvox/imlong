@@ -3,6 +3,7 @@ layout: post
 title: Hello, world!
 tags: [First Blog]
 comment: false
+categories: [abc]
 ---
 
 ## Hello, world!
