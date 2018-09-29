@@ -9,7 +9,7 @@ intro: "<b>I'm Long</b> nơi ghi chép lại những câu chuyên về những n
 # Build settings
 kramdown:
   input: GFM
-permalink: pretty
+permalink: /:title.html
 
 # Third-party services
 # just leave empty to disable it
