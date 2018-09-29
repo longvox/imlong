@@ -1,10 +1,10 @@
 # Site settings
 title: "I'm Long"
-description: "Blog về kinh nghiệm bản thân về công nghệ thông tin và nhiều lĩnh vực mà tôi quan tâm."
+description: "Tôi viết về những lĩnh vực tôi thích và muốn tìm hiểu thêm về nó."
 baseurl: "" 
 url: ""
 author: "Long Vox"
-intro: "Xin chào bạn ghé thăm blog nhỏ của mình."
+intro: "I'm Long nơi ghi chép lại những câu chuyên về những ngày rãnh rỗi của tôi."
 
 # Build settings
 kramdown:
@@ -13,7 +13,7 @@ permalink: pretty
 
 # Third-party services
 # just leave empty to disable it
-google_analytics:
+google_analytics: UA-80507572-2
 disqus: true
 disqus_shortname: longvox
 
