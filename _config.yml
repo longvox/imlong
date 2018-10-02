@@ -4,7 +4,7 @@ description: "Tôi viết về những lĩnh vực tôi thích và muốn tìm h
 baseurl: "" 
 url: ""
 author: "Long Vox"
-intro: "<b>I'm Long</b> nơi ghi chép lại những câu chuyên về những ngày rãnh rỗi của tôi."
+intro: "I'm Long nơi ghi chép lại những câu chuyện về những ngày rãnh rỗi của tôi."
 
 # Build settings
 kramdown:
