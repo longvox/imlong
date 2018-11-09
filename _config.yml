@@ -189,7 +189,7 @@ defaults:
       show_edit_on_github: true
       pageview: true
 
-
+theme: jekyll-text-theme
 ## => Plugins
 ##############################
 plugins:
