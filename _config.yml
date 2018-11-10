@@ -1,21 +1,19 @@
 # Site settings
-title: Daktilo
+title: I'm Long
 description: >
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Tôi viết về những lĩnh vực tôi thích và muốn tìm hiểu thêm về nó.
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://hitchhiker.ma" # the base hostname & protocol for your site
+url: "https://longvox.github.io/" # the base hostname & protocol for your site
 
 author:
   fullname: Motaquillah Maddane
   googleplus: https://www.google.com/+MotaquillahMaddane
   github: kronik3r
   twitter: electrik_frog
-  # disqus: your_disqus_forum_shortname
+  disqus: longvox
 
-# google_analytics: 'UA-XXXXXXXX-X'
+google_analytics: 'UA-80507572-2'
 
 # Syntax highlighting
 highlightstyle: ''
