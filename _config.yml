@@ -5,7 +5,7 @@ description: >
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://longvox.github.io/" # the base hostname & protocol for your site
 
-permalink: /Blog/:title/
+permalink: /blog/:title/
 
 author:
   fullname: Long Vox
