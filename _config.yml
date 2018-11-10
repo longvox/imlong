@@ -1,8 +1,7 @@
 # Site settings
 title: I'm Long
 description: >
-  Tôi viết về những lĩnh vực tôi thích và muốn tìm hiểu thêm về nó.
-
+  Tôi ghi lại những gì tôi biết về IT và muốn tìm hiểu thêm về nó.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://longvox.github.io/" # the base hostname & protocol for your site
 
@@ -27,3 +26,8 @@ exclude: ["README.md", "README.html"]
 # Build settings
 highlighter: 'darkula'
 markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jemoji

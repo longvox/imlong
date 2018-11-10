@@ -5,11 +5,11 @@ tags: [PHP,Tip]
 comment: true
 ---
 ![](https://raw.githubusercontent.com/longvox/longvox.github.io/master/_posts/2018-9-27-10-thu-vien-php-khong-the-bo-qua/1.png?style=centerme)
-### _**Phát hành lần đầu năm 1995, ngôn ngữ PHP hiện tại đã vượt qua ngưỡng tuổi uống rượu hợp pháp vài năm, nhưng điều này không ngăn được việc nó vẫn là một trong những ngôn ngữ lập trình phổ biến nhất trên mạng và là sự lựa chọn đầu tiên của nhiều developer back-end.**_
+ _**Phát hành lần đầu năm 1995, ngôn ngữ PHP hiện tại đã vượt qua ngưỡng tuổi uống rượu hợp pháp vài năm, nhưng điều này không ngăn được việc nó vẫn là một trong những ngôn ngữ lập trình phổ biến nhất trên mạng và là sự lựa chọn đầu tiên của nhiều developer back-end.**_
 
 Việc sử dụng các thư viện có sẵn của người khác chia sẻ để tiết kiệm thời gian và hạn chế lỗi phát sinh là rất hữu ích với các developer PHP. Có rất nhiều thư viện PHP như vậy được phát hành mỗi ngày, và dưới đây chúng tôi lựa ra 10 thư viện PHP mã nguồn mở hữu ích và thú vị nhất mà bạn phải xem qua.
 
-## **1. PChart**
+# 1. **1. PChart**
 
 [www.pchart.net/download](http://www.pchart.net/download)
 
@@ -17,7 +17,7 @@ PChart là một thư viện PHP ấn tượng giúp khởi tạo những biểu
 
 ![](https://raw.githubusercontent.com/longvox/longvox.github.io/master/_posts/2018-9-27-10-thu-vien-php-khong-the-bo-qua/2.jpg)
 
-## **2. PHP-ML**
+# 2. **2. PHP-ML**
 
 [https://github.com/php-ai/php-ml](https://github.com/php-ai/php-ml)
 
@@ -27,7 +27,7 @@ PHP-ML đòi hỏi phiên bản PHP 7 trở lên.
 
 ![](https://raw.githubusercontent.com/longvox/longvox.github.io/master/_posts/2018-9-27-10-thu-vien-php-khong-the-bo-qua/3.jpg)
 
-## **3. Opauth**
+# 3. **3. Opauth**
 
 [https://github.com/opauth/opauth](https://github.com/opauth/opauth)
 
@@ -37,7 +37,7 @@ Thư viện cho phép người sử dụng xác thực bản thân thông qua nh
 
 Opauth được hỗ trợ bởi nhiều PHP framework, nó có thể dễ dàng tích hợp trong hầu hết các ứng dụng PHP hiện tại, có thể kể tới: vanilla (plain) PHP applications, CakePHP, CodeIgniter, FuelPHP, Laravel, PrestaShop, và nhiều hơn nữa.
 
-## **4. PHPMailer**
+# 4. **4. PHPMailer**
 
 [https://github.com/PHPMailer/PHPMailer](https://github.com/PHPMailer/PHPMailer)
 
@@ -45,7 +45,7 @@ Không có bộ sưu tập thư viện PHP nào hoàn thiện nếu thiếu đi 
 
 ![](https://raw.githubusercontent.com/longvox/longvox.github.io/master/_posts/2018-9-27-10-thu-vien-php-khong-the-bo-qua/5.jpg)
 
-## **5. ImageWorkshop**
+# 5. **5. ImageWorkshop**
 
 [http://phpimageworkshop.com/](http://phpimageworkshop.com/)
 
@@ -55,7 +55,7 @@ ImageWorkshop là một thư viện mã nguồn mở cho phép bạn thao tác t
 
 ImageWorkshop được phát triển để thực hiện các thao tác phổ biến trên hình ảnh một cách dễ dàng nhất trong PHP. Nếu bạn cần một công cụ mạnh hơn, có thể tham khảo thư viện Imagine.
 
-## **6. Carbon**
+# 6. **6. Carbon**
 
 [https://github.com/briannesbitt/Carbon](https://github.com/briannesbitt/Carbon)
 
@@ -63,7 +63,7 @@ Carbon là một hàm API mở rộng đơn giản dành riêng để làm việ
 
 ![](https://raw.githubusercontent.com/longvox/longvox.github.io/master/_posts/2018-9-27-10-thu-vien-php-khong-the-bo-qua/7.jpg)
 
-## **7. Ubench**
+# 7. **7. Ubench**
 
 [https://github.com/devster/ubench](https://github.com/devster/ubench)
 
@@ -71,7 +71,7 @@ Ubench là một thư viện nhỏ dùng để đánh giá chấm điểm đoạ
 
 ![](https://raw.githubusercontent.com/longvox/longvox.github.io/master/_posts/2018-9-27-10-thu-vien-php-khong-the-bo-qua/8.jpg)
 
-## **8. Faker**
+# 8. **8. Faker**
 
 [https://github.com/fzaninotto/Faker](https://github.com/fzaninotto/Faker)
 
@@ -81,7 +81,7 @@ Faker là một thư viện PHP tạo ra các dữ liệu giả cho bạn. Nó k
 
 Miễn là bạn tiếp tục truy cập vào các thuộc tính của đối tượng, nó sẽ tiếp tục quay trở lại các dữ liệu được tạo ngẫu nhiên.
 
-## **9. Omnipay**
+# 9. **9. Omnipay**
 
 [https://github.com/adrianmacneil/omnipay](https://github.com/adrianmacneil/omnipay)
 
@@ -89,7 +89,7 @@ Omnipay là một thư viện xử lý các thanh toán cho PHP. Nó có một A
 
 ![](https://raw.githubusercontent.com/longvox/longvox.github.io/master/_posts/2018-9-27-10-thu-vien-php-khong-the-bo-qua/10.jpg)
 
-## **10. PHPGeo**
+# 10. **10. PHPGeo**
 
 [https://github.com/mjaschen/phpgeo](https://github.com/mjaschen/phpgeo)
 
@@ -98,4 +98,3 @@ PHPGeo là một thư viện đơn giản cho phép bạn tính toán khoảng c
 ![](https://raw.githubusercontent.com/longvox/longvox.github.io/master/_posts/2018-9-27-10-thu-vien-php-khong-the-bo-qua/11.jpg)
 
 *Theo [Techtalk](https://techtalk.vn/10-thu-vien-php-ma-bat-ky-ai-cung-khong-the-bo-qua.html?style=rightme)*{: .right-text}
-
