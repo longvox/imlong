@@ -8,7 +8,7 @@
 <meta name="description" content="Tôi viết về những lĩnh vực tôi thích và muốn tìm hiểu thêm về nó.
 ">
 <meta name="keywords" content="">
-<link rel="canonical" href="http://localhost:4000/tool/2014/08/20/sample-post.html">
+<link rel="canonical" href="http://localhost:4000/Blog/sample-post/">
         
 
 
@@ -31,14 +31,14 @@
 <meta property="og:title" content="Sample post from Daktilo">
 <meta property="og:description" content="Tôi viết về những lĩnh vực tôi thích và muốn tìm hiểu thêm về nó.
 ">
-<meta property="og:url" content="http://localhost:4000/tool/2014/08/20/sample-post.html">
+<meta property="og:url" content="http://localhost:4000/Blog/sample-post/">
 <meta property="og:site_name" content="I'm Long">
 
         <link href='http://fonts.googleapis.com/css?family=Inconsolata:400,700' rel='stylesheet' type='text/css'>
 <link rel="stylesheet" href="/assets/vendor/normalize-css/normalize.css">
 <link rel="stylesheet" href="/css/main.css">
 
-  <link rel="stylesheet" href="/assets/vendor/highlight/styles/solarized_dark.css">
+  <link rel="stylesheet" href="/assets/vendor/highlight/styles/darkula.css">
 
 <link rel="stylesheet" href="/assets/vendor/font-awesome/css/font-awesome.css">
     </head>
@@ -93,13 +93,13 @@
 
 <p>Example code:</p>
 
-<figure class="highlight"><pre><code class="language-javascript" data-lang="javascript"><span class="kd">var</span> <span class="nx">light</span> <span class="o">=</span> <span class="k">new</span> <span class="nx">Light</span><span class="p">();</span>
-<span class="kd">var</span> <span class="nx">switchUp</span> <span class="o">=</span> <span class="k">new</span> <span class="nx">FlipUpCommand</span><span class="p">(</span><span class="nx">light</span><span class="p">);</span>
-<span class="kd">var</span> <span class="nx">switchDown</span> <span class="o">=</span> <span class="k">new</span> <span class="nx">FlipDownCommand</span><span class="p">(</span><span class="nx">light</span><span class="p">);</span>
-<span class="kd">var</span> <span class="nx">s</span> <span class="o">=</span> <span class="k">new</span> <span class="nx">Switch</span><span class="p">();</span>
+<figure class="highlight"><pre><code class="language-javascript" data-lang="javascript">var light = new Light();
+var switchUp = new FlipUpCommand(light);
+var switchDown = new FlipDownCommand(light);
+var s = new Switch();
 
-<span class="nx">s</span><span class="p">.</span><span class="nx">storeAndExecute</span><span class="p">(</span><span class="nx">switchUp</span><span class="p">);</span>
-<span class="nx">s</span><span class="p">.</span><span class="nx">storeAndExecute</span><span class="p">(</span><span class="nx">switchDown</span><span class="p">);</span></code></pre></figure>
+s.storeAndExecute(switchUp);
+s.storeAndExecute(switchDown);</code></pre></figure>
 
 <p>A list:</p>
 

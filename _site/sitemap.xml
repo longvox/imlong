@@ -3,7 +3,37 @@
   
     
     <url>
-      <loc>http://localhost:4000/design/tool/2015/09/07/welcome-to-jekyll.html/</loc>
+      <loc>http://localhost:4000/Blog/10-thu-vien-php-khong-the-bo-qua//</loc>
+      
+        <lastmod>2018-09-27T00:00:00+07:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.7</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/Blog/Hello-world//</loc>
+      
+        <lastmod>2018-07-13T00:00:00+07:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.7</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/Blog/welcome-to-jekyll//</loc>
       
         <lastmod>2015-09-07T06:34:01+07:00</lastmod>
       
@@ -18,7 +48,7 @@
   
     
     <url>
-      <loc>http://localhost:4000/tool/2014/08/20/sample-post.html/</loc>
+      <loc>http://localhost:4000/Blog/sample-post//</loc>
       
         <lastmod>2014-08-20T06:56:45+07:00</lastmod>
       
@@ -38,7 +68,7 @@
     <url>
       <loc>http://localhost:4000/about/</loc>
       
-        <lastmod>2018-11-10T14:14:20+07:00</lastmod>
+        <lastmod>2018-11-10T14:35:51+07:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -53,7 +83,7 @@
     <url>
       <loc>http://localhost:4000/categories/design/</loc>
       
-        <lastmod>2018-11-10T14:14:20+07:00</lastmod>
+        <lastmod>2018-11-10T14:35:51+07:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -70,7 +100,7 @@
     <url>
       <loc>http://localhost:4000/</loc>
       
-        <lastmod>2018-11-10T14:14:20+07:00</lastmod>
+        <lastmod>2018-11-10T14:35:51+07:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -87,7 +117,7 @@
     <url>
       <loc>http://localhost:4000/categories/productivity/</loc>
       
-        <lastmod>2018-11-10T14:14:20+07:00</lastmod>
+        <lastmod>2018-11-10T14:35:51+07:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -106,7 +136,7 @@
     <url>
       <loc>http://localhost:4000/categories/tools/</loc>
       
-        <lastmod>2018-11-10T14:14:20+07:00</lastmod>
+        <lastmod>2018-11-10T14:35:51+07:00</lastmod>
       
       
         <changefreq>monthly</changefreq>

@@ -6,30 +6,155 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 10 Nov 2018 14:14:20 +0700</pubDate>
-    <lastBuildDate>Sat, 10 Nov 2018 14:14:20 +0700</lastBuildDate>
+    <pubDate>Sat, 10 Nov 2018 14:35:51 +0700</pubDate>
+    <lastBuildDate>Sat, 10 Nov 2018 14:35:51 +0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+        <title>10 Thư viện PHP mà bất kỳ ai cũng không thể bỏ qua</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/longvox/longvox.github.io/master/_posts/2018-9-27-10-thu-vien-php-khong-the-bo-qua/1.png?style=centerme&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;phát-hành-lần-đầu-năm-1995-ngôn-ngữ-php-hiện-tại-đã-vượt-qua-ngưỡng-tuổi-uống-rượu-hợp-pháp-vài-năm-nhưng-điều-này-không-ngăn-được-việc-nó-vẫn-là-một-trong-những-ngôn-ngữ-lập-trình-phổ-biến-nhất-trên-mạng-và-là-sự-lựa-chọn-đầu-tiên-của-nhiều-developer-back-end&quot;&gt;&lt;em&gt;&lt;strong&gt;Phát hành lần đầu năm 1995, ngôn ngữ PHP hiện tại đã vượt qua ngưỡng tuổi uống rượu hợp pháp vài năm, nhưng điều này không ngăn được việc nó vẫn là một trong những ngôn ngữ lập trình phổ biến nhất trên mạng và là sự lựa chọn đầu tiên của nhiều developer back-end.&lt;/strong&gt;&lt;/em&gt;&lt;/h3&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;Việc sử dụng các thư viện có sẵn của người khác chia sẻ để tiết kiệm thời gian và hạn chế lỗi phát sinh là rất hữu ích với các developer PHP. Có rất nhiều thư viện PHP như vậy được phát hành mỗi ngày, và dưới đây chúng tôi lựa ra 10 thư viện PHP mã nguồn mở hữu ích và thú vị nhất mà bạn phải xem qua.&lt;/p&gt;
+
+&lt;h2 id=&quot;1-pchart&quot;&gt;&lt;strong&gt;1. PChart&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.pchart.net/download&quot;&gt;www.pchart.net/download&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;PChart là một thư viện PHP ấn tượng giúp khởi tạo những biểu đồ trực quan từ những dữ liệu dạng văn bản. Các dữ liệu có thể được thể hiện dưới dạng cột, biểu đồ, và nhiều dạng đồ thị khác bằng cách sử dụng các truy vấn SQL.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/longvox/longvox.github.io/master/_posts/2018-9-27-10-thu-vien-php-khong-the-bo-qua/2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;2-php-ml&quot;&gt;&lt;strong&gt;2. PHP-ML&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/php-ai/php-ml&quot;&gt;https://github.com/php-ai/php-ml&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Một cách tiếp cận Machine Learning (ML) mới mẻ trong PHP, PHP-ML là một thư viện thú vị để thử nghiệm với ML. Nó cung cấp cho bạn một cách thức dễ dàng để sử dụng API để đào tạo bot của bạn đưa ra những dự đoán dựa trên dữ liệu đầu vào. Nó cung cấp một loạt các thuật toán khác nhau để nhận dạng mẫu và tính toán những thống kê phức tạp.&lt;/p&gt;
+
+&lt;p&gt;PHP-ML đòi hỏi phiên bản PHP 7 trở lên.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/longvox/longvox.github.io/master/_posts/2018-9-27-10-thu-vien-php-khong-the-bo-qua/3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;3-opauth&quot;&gt;&lt;strong&gt;3. Opauth&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/opauth/opauth&quot;&gt;https://github.com/opauth/opauth&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Thư viện cho phép người sử dụng xác thực bản thân thông qua những tài khoản cá nhận của họ trên các trang mạng xã hội hoặc các dịch vụ khác. Tất nhiên luôn bao gồm tất cả những tên tuổi lớn hiện nay như: Google, Facebook, Twitter, Github, Instagram, LinkedIn.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/longvox/longvox.github.io/master/_posts/2018-9-27-10-thu-vien-php-khong-the-bo-qua/4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Opauth được hỗ trợ bởi nhiều PHP framework, nó có thể dễ dàng tích hợp trong hầu hết các ứng dụng PHP hiện tại, có thể kể tới: vanilla (plain) PHP applications, CakePHP, CodeIgniter, FuelPHP, Laravel, PrestaShop, và nhiều hơn nữa.&lt;/p&gt;
+
+&lt;h2 id=&quot;4-phpmailer&quot;&gt;&lt;strong&gt;4. PHPMailer&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/PHPMailer/PHPMailer&quot;&gt;https://github.com/PHPMailer/PHPMailer&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Không có bộ sưu tập thư viện PHP nào hoàn thiện nếu thiếu đi PHPMailer – thư viện tạo email đầy đủ tính năng cho PHP. Dự án này được hỗ trợ bởi một cộng đồng rất lớn và đang được sử dụng trong nhiều hệ thống phổ biến như WordPress và Drupal, khiến nó trở thành sự lựa chọn an toàn nhất cho việc gửi email trong PHP. Nó hỗ trợ SMTP, có thể làm email HTML, và nhiều hơn nữa.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/longvox/longvox.github.io/master/_posts/2018-9-27-10-thu-vien-php-khong-the-bo-qua/5.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;5-imageworkshop&quot;&gt;&lt;strong&gt;5. ImageWorkshop&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://phpimageworkshop.com/&quot;&gt;http://phpimageworkshop.com/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;ImageWorkshop là một thư viện mã nguồn mở cho phép bạn thao tác trên các lớp hình ảnh (layers). Với nó, bạn có thể tùy ý thay đổi kích thước, cắt xén, tạo hình thu nhỏ (thumbnails), thêm bản quyền hình (watermark) và nhiều hơn nữa. Đây là một ví dụ:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/longvox/longvox.github.io/master/_posts/2018-9-27-10-thu-vien-php-khong-the-bo-qua/6.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;ImageWorkshop được phát triển để thực hiện các thao tác phổ biến trên hình ảnh một cách dễ dàng nhất trong PHP. Nếu bạn cần một công cụ mạnh hơn, có thể tham khảo thư viện Imagine.&lt;/p&gt;
+
+&lt;h2 id=&quot;6-carbon&quot;&gt;&lt;strong&gt;6. Carbon&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/briannesbitt/Carbon&quot;&gt;https://github.com/briannesbitt/Carbon&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Carbon là một hàm API mở rộng đơn giản dành riêng để làm việc với ngày giờ bằng cách tăng cường các lớp dữ liệu (class) thông qua một số phương pháp hữu ích. Ví dụ:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/longvox/longvox.github.io/master/_posts/2018-9-27-10-thu-vien-php-khong-the-bo-qua/7.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;7-ubench&quot;&gt;&lt;strong&gt;7. Ubench&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/devster/ubench&quot;&gt;https://github.com/devster/ubench&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Ubench là một thư viện nhỏ dùng để đánh giá chấm điểm đoạn mã PHP của bạn. Nó theo dõi thời gian thực thi mã code và tình trạng sử dụng bộ nhớ. Sử dụng Ubench để chạy kiểm tra trong quá trình phát triển thực sự là một ý tương hay. Đây là một ví dụ:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/longvox/longvox.github.io/master/_posts/2018-9-27-10-thu-vien-php-khong-the-bo-qua/8.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;8-faker&quot;&gt;&lt;strong&gt;8. Faker&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/fzaninotto/Faker&quot;&gt;https://github.com/fzaninotto/Faker&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Faker là một thư viện PHP tạo ra các dữ liệu giả cho bạn. Nó khá tiện dụng và hữu ích khi bạn cần một cơ sở dữ liệu thử nghiệm hoặc tạo ra các dữ liệu mẫu cho ứng dụng web của bạn. Nó cũng rất dễ dàng để sử dụng:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/longvox/longvox.github.io/master/_posts/2018-9-27-10-thu-vien-php-khong-the-bo-qua/9.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Miễn là bạn tiếp tục truy cập vào các thuộc tính của đối tượng, nó sẽ tiếp tục quay trở lại các dữ liệu được tạo ngẫu nhiên.&lt;/p&gt;
+
+&lt;h2 id=&quot;9-omnipay&quot;&gt;&lt;strong&gt;9. Omnipay&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/adrianmacneil/omnipay&quot;&gt;https://github.com/adrianmacneil/omnipay&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Omnipay là một thư viện xử lý các thanh toán cho PHP. Nó có một API rõ ràng và nhất quán và nó hỗ trợ hàng chục cổng thanh toán. Với thư viện này, bạn chỉ cần tìm hiểu một API và làm việc với nhiều bộ xử lý thanh toán khác nhau. Chính việc sử dụng một API nhất quán giúp cho thư viện có thể dễ dàng hỗ trợ nhiều bộ xử lý thanh toán cùng lúc hoặc chuyển đổi khi có nhu cầu.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/longvox/longvox.github.io/master/_posts/2018-9-27-10-thu-vien-php-khong-the-bo-qua/10.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;10-phpgeo&quot;&gt;&lt;strong&gt;10. PHPGeo&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/mjaschen/phpgeo&quot;&gt;https://github.com/mjaschen/phpgeo&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;PHPGeo là một thư viện đơn giản cho phép bạn tính toán khoảng cách giữa các tọa độ địa lý với độ chính xác cao. Thư viện này phục vụ tốt cho những ứng dụng làm việc dựa trên tọa độ địa lý. Để có được tọa độ, bạn có thể sử dụng API vị trí của HTML5, API của Yahoo.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/longvox/longvox.github.io/master/_posts/2018-9-27-10-thu-vien-php-khong-the-bo-qua/11.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em class=&quot;right-text&quot;&gt;Theo &lt;a href=&quot;https://techtalk.vn/10-thu-vien-php-ma-bat-ky-ai-cung-khong-the-bo-qua.html?style=rightme&quot;&gt;Techtalk&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 27 Sep 2018 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/Blog/10-thu-vien-php-khong-the-bo-qua/</link>
+        <guid isPermaLink="true">http://localhost:4000/Blog/10-thu-vien-php-khong-the-bo-qua/</guid>
+        
+        <category>PHP</category>
+        
+        <category>Tip</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Hello, world!</title>
+        <description>&lt;h2 id=&quot;hello-world&quot;&gt;Hello, world!&lt;/h2&gt;
+&lt;p&gt;Trong bài viết này mình chỉ thông báo rằng đây là bài viết đầu tiên của mình. Bạn hãy đọc những gì có trên trang của mình là những ghi chép trong những lúc rãnh rỗi nhưng không “rãnh rỗi” của mình. Và đây là bài viết đầu tiên nên chỉ ngắn gọn như vậy thôi.&lt;/p&gt;
+
+&lt;p&gt;Cám ơn bạn đã đến cuốn sổ tay của mình. :purple_heart:&lt;/p&gt;
+</description>
+        <pubDate>Fri, 13 Jul 2018 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/Blog/Hello-world/</link>
+        <guid isPermaLink="true">http://localhost:4000/Blog/Hello-world/</guid>
+        
+        <category>First Blog</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Welcome to Jekyll!</title>
+        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
 
 &lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;def print_hi(name)
+  puts &amp;quot;Hi, #{name}&amp;quot;
+end
+print_hi(&amp;#39;Tom&amp;#39;)
+#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
 
 </description>
         <pubDate>Mon, 07 Sep 2015 06:34:01 +0700</pubDate>
-        <link>http://localhost:4000/design/tool/2015/09/07/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://localhost:4000/design/tool/2015/09/07/welcome-to-jekyll.html</guid>
+        <link>http://localhost:4000/Blog/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">http://localhost:4000/Blog/welcome-to-jekyll/</guid>
         
         
         <category>design</category>
@@ -57,13 +182,13 @@
 
 &lt;p&gt;Example code:&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-javascript&quot; data-lang=&quot;javascript&quot;&gt;&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;light&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;Light&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
-&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;switchUp&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;FlipUpCommand&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;light&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;switchDown&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;FlipDownCommand&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;light&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;s&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;Switch&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-javascript&quot; data-lang=&quot;javascript&quot;&gt;var light = new Light();
+var switchUp = new FlipUpCommand(light);
+var switchDown = new FlipDownCommand(light);
+var s = new Switch();
 
-&lt;span class=&quot;nx&quot;&gt;s&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;storeAndExecute&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;switchUp&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-&lt;span class=&quot;nx&quot;&gt;s&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;storeAndExecute&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;switchDown&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+s.storeAndExecute(switchUp);
+s.storeAndExecute(switchDown);&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 &lt;p&gt;A list:&lt;/p&gt;
 
@@ -99,11 +224,11 @@
 &lt;p&gt;Want to suggest something? Please &lt;a href=&quot;https://github.com/kronik3r/daktilo/issues/new&quot;&gt;Send me a request&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Wed, 20 Aug 2014 06:56:45 +0700</pubDate>
-        <link>http://localhost:4000/tool/2014/08/20/sample-post.html</link>
-        <guid isPermaLink="true">http://localhost:4000/tool/2014/08/20/sample-post.html</guid>
+        <link>http://localhost:4000/Blog/sample-post/</link>
+        <guid isPermaLink="true">http://localhost:4000/Blog/sample-post/</guid>
         
         
-        <category>tool</category>
+        <category>tools</category>
         
       </item>
     
