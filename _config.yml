@@ -49,3 +49,5 @@ gems:
   - jekyll/twemoji
 jekyll_compose:
   auto_open: true
+ toc:
+  selection: h1,h2,h3
