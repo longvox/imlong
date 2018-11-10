@@ -10,3 +10,6 @@ Trong bài viết này mình chỉ thông báo rằng đây là bài viết đ�
 
 Cám ơn bạn đã đến cuốn sổ tay của mình. :purple_heart: :+1:
 
+$$
+   |\psi_1\rangle = a|0\rangle + b|1\rangle
+$$
