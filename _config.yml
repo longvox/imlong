@@ -9,7 +9,7 @@ permalink: /blog/:title/
 
 author:
   fullname: Long Vox
-  googleplus: https://www.google.com/+longvox
+  googleplus: https://plus.google.com/108020875183684306714
   github: longvox
   twitter: longvox
   disqus: longvox
@@ -24,10 +24,28 @@ styles: [agate, androidstudio, arta, asceti, atelier-cave.dark, atelier-cave.lig
 exclude: ["README.md", "README.html"]
 
 # Build settings
-highlighter: 'darkula'
+highlighter: rouge
 markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
+  - jekyll-gist
+  - jekyll-coffeescript
+  - jekyll-assets
+  - another-jekyll-plugin
+  - jekyll-textile-converter
+  - jekyll-opal
+  - jekyll-youtube
+  - jekyll-swfobject
+  - jekyll-timeago
+  - jekyll-toc
+  
+jekyll-twemoji:
+  image_type: "png" # defaults to "svg"
+  image_size: "16x16" # defaults to "16x16"
+gems:
+  - jekyll/twemoji
+jekyll_compose:
+  auto_open: true

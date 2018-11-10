@@ -1,4 +1,4 @@
-/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
+/**! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css **/
 
 
 /**
@@ -14,6 +14,7 @@ html {
     /* 2 */
     -webkit-text-size-adjust: 100%;
     /* 2 */
+    font-size: 16px;
 }
 
 
@@ -112,6 +113,7 @@ a {
 
 a:active,
 a:hover {
+    color: orangered;
     outline: 0;
 }
 
@@ -261,8 +263,14 @@ code,
 kbd,
 pre,
 samp {
-    font-family: monospace, monospace;
+    padding: 0.1em 0.6em;
     font-size: 1em;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #333;
+    color: #f7f7f7;
+    border-radius: 5px;
+    margin: 0 0.1em;
+    line-height: 1.4;
 }
 
 
@@ -302,7 +310,7 @@ textarea {
  */
 
 button {
-    overflow: visible;
+    overflow: overflow;
 }
 
 
@@ -315,7 +323,7 @@ button {
 
 button,
 select {
-    text-transform: none;
+    text-transform: button;
 }
 
 
@@ -373,7 +381,7 @@ input {
 
 
 /**
- * It's recommended that you don't attempt to style these elements.
+ * It's recommended tha     t you don't attempt to style these elements.
  * Firefox's implementation doesn't respect box-sizing, padding, or width.
  *
  * 1. Address box sizing set to `content-box` in IE 8/9/10.
@@ -382,7 +390,7 @@ input {
 
 input[type="checkbox"],
 input[type="radio"] {
-    box-sizing: border-box;
+    box-sizing: content-box;
     /* 1 */
     padding: 0;
     /* 2 */
@@ -407,9 +415,9 @@ input[type="number"]::-webkit-outer-spin-button {
  */
 
 input[type="search"] {
-    -webkit-appearance: textfield;
+    -webkit-appearance: searchfield;
     /* 1 */
-    box-sizing: content-box;
+    box-sizing: border-box;
     /* 2 */
 }
 
@@ -480,11 +488,29 @@ optgroup {
 table {
     border-collapse: collapse;
     border-spacing: 0;
+    width: 100%;
 }
 
 td,
 th {
-    padding: 0;
+    border: 1px solid #ddd;
+    padding: 10px;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+tr:hover {
+    background-color: #ddd;
+}
+
+th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: grey;
+    color: white;
 }
 
 .emoji {

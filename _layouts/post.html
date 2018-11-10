@@ -4,9 +4,9 @@ layout: default
 {% include post/title.html %}
 
 <div class="content">
-    {{ content }}
-    
+    {{ content | toc }}  
 </div>
+
 {% include post/about.html %}
 
 {% include externals/disqus.html %}
