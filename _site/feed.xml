@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>I'm Long</title>
-    <description>Tôi ghi lại những gì tôi biết về IT và muốn tìm hiểu thêm về nó.
-</description>
+    <title></title>
+    <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 11 Nov 2018 04:24:30 +0700</pubDate>
-    <lastBuildDate>Sun, 11 Nov 2018 04:24:30 +0700</lastBuildDate>
+    <pubDate>Wed, 14 Nov 2018 22:23:29 +0700</pubDate>
+    <lastBuildDate>Wed, 14 Nov 2018 22:23:29 +0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -47,8 +46,8 @@
 &lt;p&gt;:heavy_exclamation_mark: Note: &lt;code class=&quot;highlighter-rouge&quot;&gt;1rem&lt;/code&gt; tương tự &lt;code class=&quot;highlighter-rouge&quot;&gt;16px&lt;/code&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 10 Nov 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/blog/Bouncing-loader/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/Bouncing-loader/</guid>
+        <link>http://localhost:4000/2018/11/10/Bouncing-loader.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/11/10/Bouncing-loader.html</guid>
         
         <category>CSS</category>
         
@@ -157,8 +156,8 @@
 &lt;p&gt;[[TOC]]&lt;/p&gt;
 </description>
         <pubDate>Thu, 27 Sep 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/blog/10-thu-vien-php-khong-the-bo-qua/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/10-thu-vien-php-khong-the-bo-qua/</guid>
+        <link>http://localhost:4000/2018/09/27/10-thu-vien-php-khong-the-bo-qua.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/09/27/10-thu-vien-php-khong-the-bo-qua.html</guid>
         
         <category>PHP</category>
         
@@ -376,7 +375,7 @@ line 3 of code
 &lt;h3 id=&quot;emojies&quot;&gt;&lt;a href=&quot;https://github.com/markdown-it/markdown-it-emoji&quot;&gt;Emojies&lt;/a&gt;&lt;/h3&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;Classic markup: &lt;img draggable=&quot;false&quot; title=&quot;:wink:&quot; alt=&quot;😉&quot; src=&quot;https://twemoji.maxcdn.com/2/72x72/1f609.png&quot; class=&quot;emoji&quot; /&gt; :crush: &lt;img draggable=&quot;false&quot; title=&quot;:cry:&quot; alt=&quot;😢&quot; src=&quot;https://twemoji.maxcdn.com/2/72x72/1f622.png&quot; class=&quot;emoji&quot; /&gt; :tear: &lt;img draggable=&quot;false&quot; title=&quot;:laughing:&quot; alt=&quot;😆&quot; src=&quot;https://twemoji.maxcdn.com/2/72x72/1f606.png&quot; class=&quot;emoji&quot; /&gt; &lt;img draggable=&quot;false&quot; title=&quot;:yum:&quot; alt=&quot;😋&quot; src=&quot;https://twemoji.maxcdn.com/2/72x72/1f60b.png&quot; class=&quot;emoji&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;Classic markup: :wink: :crush: :cry: :tear: :laughing: :yum:&lt;/p&gt;
 
   &lt;p&gt;Shortcuts (emoticons): :-) :-( 8-) ;)&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -461,8 +460,8 @@ with lazy continuation.&lt;/p&gt;
 &lt;/div&gt;
 </description>
         <pubDate>Fri, 13 Jul 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/blog/markdown-it-demo/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/markdown-it-demo/</guid>
+        <link>http://localhost:4000/2018/07/13/markdown-it-demo.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/07/13/markdown-it-demo.html</guid>
         
         <category>Test</category>
         
@@ -476,11 +475,11 @@ with lazy continuation.&lt;/p&gt;
         <description>&lt;h2 id=&quot;hello-world&quot;&gt;Hello, world!&lt;/h2&gt;
 &lt;p&gt;Trong bài viết này mình chỉ thông báo rằng đây là bài viết đầu tiên của mình. Bạn hãy đọc những gì có trên trang của mình là những ghi chép trong những lúc rãnh rỗi nhưng không “rãnh rỗi” của mình. Và đây là bài viết đầu tiên nên chỉ ngắn gọn như vậy thôi.&lt;/p&gt;
 
-&lt;p&gt;Cám ơn bạn đã đến cuốn sổ tay của mình. &lt;img draggable=&quot;false&quot; title=&quot;:purple_heart:&quot; alt=&quot;💜&quot; src=&quot;https://twemoji.maxcdn.com/2/72x72/1f49c.png&quot; class=&quot;emoji&quot; /&gt; &lt;img draggable=&quot;false&quot; title=&quot;:+1:&quot; alt=&quot;👍&quot; src=&quot;https://twemoji.maxcdn.com/2/72x72/1f44d.png&quot; class=&quot;emoji&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Cám ơn bạn đã đến cuốn sổ tay của mình. :purple_heart: :+1:&lt;/p&gt;
 </description>
         <pubDate>Fri, 13 Jul 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/blog/Hello-world/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/Hello-world/</guid>
+        <link>http://localhost:4000/2018/07/13/Hello-world.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/07/13/Hello-world.html</guid>
         
         <category>First Blog</category>
         
