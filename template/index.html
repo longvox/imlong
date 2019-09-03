@@ -1,0 +1,404 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+	<!-- Required meta tags -->
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+	<!-- Bootstrap CSS -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+	<link rel="stylesheet" href="fontawesome/css/all.css">
+	<link href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,500,500i,700,700i,900,900i&display=swap" rel="stylesheet">
+
+	<link rel="stylesheet" href="style.css">
+
+	<title>Hello, world!</title>
+</head>
+
+<body>
+	<div class="sidebar">
+		<div class="sidebar-wrapper">
+			<div class="logo">
+				<a href="">
+					<img src="logo.png" alt="">
+				</a>
+			</div>
+			<div class="nav-sidebar">
+				<div class="group-nav">
+					<h6>Message Management</h6>
+					<ul class="nav">
+						<li class="">
+							<a href="./index.php">
+								<i class="fal fa-bullhorn"></i>
+								<p>Message Summary</p>
+							</a>
+						</li>
+						<li class="">
+							<a href="./index.php">
+								<i class="fal fa-paper-plane"></i>
+								<p>Send Messages</p>
+							</a>
+						</li>
+						<li class="">
+							<a href="./index.php">
+								<i class="fal fa-envelope"></i>
+								<p>Message Template</p>
+							</a>
+						</li>
+						<li class="active">
+							<a href="./index.php">
+								<i class="fal fa-archive"></i>
+								<p>Rules</p>
+							</a>
+						</li>
+					</ul>
+				</div>
+				<div class="group-nav">
+					<h6>Contact Management</h6>
+					<ul class="nav">
+						<li class="">
+							<a href="./index.php">
+								<i class="fal fa-users"></i>
+								<p>Contact Group</p>
+							</a>
+						</li>
+						<li class="">
+							<a href="./index.php">
+								<i class="fal fa-th-list"></i>
+								<p>Excluded numbers</p>
+							</a>
+						</li>
+						<li class="">
+							<a href="./index.php">
+								<i class="fal fa-address-book"></i>
+								<p>Contacts</p>
+							</a>
+						</li>
+
+					</ul>
+				</div>
+				<div class="group-nav">
+					<h6>Statistics</h6>
+				</div>
+				<div class="group-nav">
+					<h6>User</h6>
+					<ul class="nav">
+						<li class="">
+							<a href="./index.php">
+								<i class="fal fa-users"></i>
+								<p>User management</p>
+							</a>
+						</li>
+
+
+					</ul>
+				</div>
+
+			</div>
+
+
+		</div>
+	</div>
+	<div class="main-panel">
+		<nav class="navbar navbar-expand-lg navbar-absolute navbar-transparent">
+
+			<div class="navbar-wrapper">
+				<div class="navbar-toggle d-inline">
+					<button type="button" class="navbar-toggler">
+						<span class="navbar-toggler-bar bar1"></span>
+						<span class="navbar-toggler-bar bar2"></span>
+						<span class="navbar-toggler-bar bar3"></span>
+					</button>
+				</div>
+
+			</div>
+
+			<div class="nav-profile">
+				<div class="wrapper">
+					<ul class="navbar-nav ml-auto flex-end">
+
+
+						<li class="dropdown nav-item">
+							<a href="#" class="dropdown-toggle nav-link" data-toggle="dropdown" aria-expanded="false">
+								<div class="photo">
+									<img src="profile.png" alt="Profile Photo">
+									Geoger Martin
+
+								</div>
+
+
+							</a>
+							<ul class="dropdown-menu dropdown-navbar">
+								<li>
+									<a href="changepass.php" class="nav-item dropdown-item">Profile</a>
+								</li>
+								<li>
+									<a href="./includes/logout.php" class="nav-item dropdown-item">Log out</a>
+								</li>
+							</ul>
+						</li>
+
+					</ul>
+				</div>
+			</div>
+
+		</nav>
+		<div class="breadcrum">
+			<div class="wrapper">
+				<ul>
+					<li><a href="">Home</a></li>
+					<li><a href="">Excluded numbers</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="content">
+			<div class="wrapper">
+				<div class="block">
+
+					<button class="btn btn-cancle">Cancle</button>
+					<button class="btn btn-update bg-btn-radient">update</button>
+
+					<a class="btn btn-template bg-btn-radient">New Message Template</a>
+
+					<a class="btn btn-newrule bg-btn-radient">New Rule</a>
+					<a class="btn btn-send bg-btn-radient">Send</a>
+					<a class="btn btn-edit bg-btn-radient">Edit A Message</a>
+
+					<a class="btn btn-search bg-btn-radient">Search</a>
+					<p></p>
+					<a class="btn btn-export">Export Report</a>
+					<a class="btn btn-edit bg-btn-radient">Edit Rule</a>
+					<a class="btn btn-edit bg-btn-radient">Remove</a>
+
+
+				</div>
+				<div class="block">
+
+
+					<h1>RULES</h1>
+					<h1>NEW RULES</h1>
+
+					<div class="break-line"></div>
+
+
+				</div>
+				<div class="block">
+
+					<div class="form-search">
+						<input type="text" class="search"><span class="icon-search"></span>
+					</div>
+					<br>
+					<div class="custom-dropdown select_group">
+						<select name="" id="">
+							<option value="">Group A</option>
+							<option value="">Welcome Message</option>
+						</select>
+					</div>
+					<div class="custom-dropdown select_day">
+						<select name="" id="">
+							<option value="">1</option>
+							<option value="">2</option>
+						</select>
+					</div>
+
+
+
+				</div>
+				<div class="block">
+
+					<div class="list_tab">
+						<ul class="nav nav-tabs tab-table">
+							<li class="nav-item">
+								<a class="nav-link active" href="#dncgroup">DNC Group</a>
+							</li>
+							<li class="nav-item">
+								<a class="nav-link" href="#stopgroup">Stop Group</a>
+							</li>
+						</ul>
+						<div class="export_csv">
+							<a class="btn btn-export">Export Report</a>
+						</div>
+					</div>
+
+					<!-- Tab panes -->
+					<div class="tab-content">
+						<div id="dncgroup" class="tab-pane active">
+							<table class="table">
+								<thead class="thead-blue">
+									<tr>
+										<th scope="col">No</th>
+										<th scope="col">Name</th>
+										<th scope="col">Address 1</th>
+										<th scope="col">Address 2</th>
+										<th scope="col">City</th>
+										<th scope="col">State</th>
+										<th scope="col">Zip</th>
+										<th scope="col">Zip+4</th>
+										<th scope="col">Phone</th>
+										<th scope="col">Last update</th>
+										<th scope="col">Action</th>
+									</tr>
+								</thead>
+								<tbody>
+									<tr>
+										<th scope="row">1</th>
+										<td>Zinedine Zidane</td>
+										<td>55 Bedrock lane</td>
+										<td>Floor 1</td>
+										<td>MA</td>
+										<td>5555</td>
+										<td>5555</td>
+										<td>88888</td>
+										<td>617-555 -1234</td>
+										<td>01/07/2019</td>
+										<td>
+											<div class="custom-dropdown select_action">
+												<select name="" id="">
+													<option value="">Action</option>
+													<option value="">View</option>
+													<option value="">Unblock</option>
+												</select>
+											</div>
+										</td>
+									</tr>
+									<tr>
+										<th scope="row">2</th>
+										<td>Zinedine Zidane</td>
+										<td>55 Bedrock lane</td>
+										<td>Floor 1</td>
+										<td>MA</td>
+										<td>5555</td>
+										<td>5555</td>
+										<td>88888</td>
+										<td>617-555 -1234</td>
+										<td>01/07/2019</td>
+										<td>
+											<div class="custom-dropdown select_action">
+												<select name="" id="">
+													<option value="">Action</option>
+													<option value="">View</option>
+													<option value="">Unblock</option>
+												</select>
+											</div>
+										</td>
+									</tr>
+									<tr>
+										<th scope="row">3</th>
+										<td>Zinedine Zidane</td>
+										<td>55 Bedrock lane</td>
+										<td>Floor 1</td>
+										<td>MA</td>
+										<td>5555</td>
+										<td>5555</td>
+										<td>88888</td>
+										<td>617-555 -1234</td>
+										<td>01/07/2019</td>
+										<td>
+											<div class="custom-dropdown select_action">
+												<select name="" id="">
+													<option value="">Action</option>
+													<option value="">View</option>
+													<option value="">Unblock</option>
+												</select>
+											</div>
+										</td>
+									</tr>
+									<tr>
+										<th scope="row">4</th>
+										<td>Zinedine Zidane</td>
+										<td>55 Bedrock lane</td>
+										<td>Floor 1</td>
+										<td>MA</td>
+										<td>5555</td>
+										<td>5555</td>
+										<td>88888</td>
+										<td>617-555 -1234</td>
+										<td>01/07/2019</td>
+										<td>
+											<div class="custom-dropdown select_action">
+												<select name="" id="">
+													<option value="">Action</option>
+													<option value="">View</option>
+													<option value="">Unblock</option>
+												</select>
+											</div>
+										</td>
+									</tr>
+									<tr>
+										<th scope="row">5</th>
+										<td>Zinedine Zidane</td>
+										<td>55 Bedrock lane</td>
+										<td>Floor 1</td>
+										<td>MA</td>
+										<td>5555</td>
+										<td>5555</td>
+										<td>88888</td>
+										<td>617-555 -1234</td>
+										<td>01/07/2019</td>
+										<td>
+											<div class="custom-dropdown select_action">
+												<select name="" id="">
+													<option value="">Action</option>
+													<option value="">View</option>
+													<option value="">Unblock</option>
+												</select>
+											</div>
+										</td>
+									</tr>
+								</tbody>
+							</table>
+							<div class="pagination">
+								<div class="col total">
+									<span>Total: 06 / 06 Record(s)</span>
+								</div>
+								<div class="col list-page">
+									<ul>
+										<li><a href="" class="p_next"><i class="fal fa-angle-double-left"></i></a></li>
+										<li><a href="" class="p_next"><i class="fal fa-angle-left"></i></a></li>
+										<li><a href="">1</a></li>
+										<li class="active"><a href="">2</a></li>
+										<li><a href="">3</a></li>
+										<li><a href="" class="p_next"><i class="fal fa-angle-double-right"></i></a></li>
+										<li><a href="" class="p_next"><i class="fal fa-angle-right"></i></a></li>
+									</ul>
+								</div>
+								<div class="col sort">
+									<span>View</span>
+									<div class="custom-dropdown select_sort">
+										<select name="" id="">
+											<option value="">20</option>
+
+										</select>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div id="stopgroup" class="tab-pane fade"><br>
+
+						</div>
+
+					</div>
+
+
+				</div>
+			</div>
+
+		</div>
+	</div>
+
+
+
+
+
+	<script>
+	</script>
+	<!-- Optional JavaScript -->
+	<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+	<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+	<script src="main.js"></script>
+</body>
+
+</html>
